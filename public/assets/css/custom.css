@@ -1,0 +1,17 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+label, .control-label {
+    font-size: 14px !important;
+}
+
+.btnChangeStatus {
+    cursor: pointer;
+}
+
+.custom-file-label::after { 
+    right: initial;
+    left: 0 !important;
+    border-radius: .25rem 0 0 .25rem !important;
+}
